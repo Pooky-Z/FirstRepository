@@ -1,2 +1,6 @@
 sss
-create a new line
+<<<<<<< HEAD
+add a new line
+=======
+add a new line
+>>>>>>> feature1
